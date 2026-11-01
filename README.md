@@ -2,7 +2,9 @@
 
 A fast, single-page business website for **JS Solution**, a company offering everything from AI invitations and home products to smart home, kitchen appliances, web & app development and repair services.
 
-> Screenshot: add `screenshot.png` here
+![JS Solution homepage](screenshot.png)
+
+**Portfolio:** [devshanidp.xyz](https://devshanidp.xyz/)
 
 ## Features
 
