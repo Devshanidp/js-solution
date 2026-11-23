@@ -1,0 +1,134 @@
+[
+  {
+    "id": "P001",
+    "name": "Redmi Note 14 5G (8GB/128GB)",
+    "category": "phone",
+    "brand": "Xiaomi",
+    "price": 17999,
+    "mrp": 20999,
+    "inStock": true,
+    "tags": ["5g", "budget", "camera", "amoled", "students"],
+    "description": "6.67\" AMOLED 120Hz, 50MP camera, 5110mAh battery, 45W fast charging."
+  },
+  {
+    "id": "P002",
+    "name": "Samsung Galaxy A36 5G (8GB/128GB)",
+    "category": "phone",
+    "brand": "Samsung",
+    "price": 24999,
+    "mrp": 28999,
+    "inStock": true,
+    "tags": ["5g", "mid-range", "camera", "updates", "amoled"],
+    "description": "6.7\" Super AMOLED, 50MP OIS camera, 5000mAh battery, 6 years of software updates."
+  },
+  {
+    "id": "P003",
+    "name": "iPhone 16 (128GB)",
+    "category": "phone",
+    "brand": "Apple",
+    "price": 69900,
+    "mrp": 79900,
+    "inStock": true,
+    "tags": ["premium", "ios", "camera", "video"],
+    "description": "A18 chip, 48MP Fusion camera, Camera Control button, all-day battery."
+  },
+  {
+    "id": "P004",
+    "name": "Realme Narzo 80x 5G (6GB/128GB)",
+    "category": "phone",
+    "brand": "Realme",
+    "price": 12999,
+    "mrp": 14999,
+    "inStock": false,
+    "tags": ["5g", "budget", "battery", "gaming"],
+    "description": "6000mAh battery, 120Hz display, Dimensity 6300, 45W charging."
+  },
+  {
+    "id": "P005",
+    "name": "boAt Airdopes 141 ANC",
+    "category": "earbuds",
+    "brand": "boAt",
+    "price": 1499,
+    "mrp": 4490,
+    "inStock": true,
+    "tags": ["anc", "budget", "gaming", "low-latency"],
+    "description": "32dB ANC, 42 hours playback, BEAST mode low latency, IPX5."
+  },
+  {
+    "id": "P006",
+    "name": "Samsung Galaxy Buds FE",
+    "category": "earbuds",
+    "brand": "Samsung",
+    "price": 5999,
+    "mrp": 9999,
+    "inStock": true,
+    "tags": ["anc", "bass", "samsung"],
+    "description": "Active noise cancelling, powerful bass, 21 hours with case, works best with Samsung phones."
+  },
+  {
+    "id": "P007",
+    "name": "Apple AirPods (4th gen)",
+    "category": "earbuds",
+    "brand": "Apple",
+    "price": 12900,
+    "mrp": 12900,
+    "inStock": true,
+    "tags": ["premium", "ios", "spatial-audio"],
+    "description": "H2 chip, personalised spatial audio, USB-C case, best with iPhone."
+  },
+  {
+    "id": "P008",
+    "name": "Noise ColorFit Pro 6",
+    "category": "smartwatch",
+    "brand": "Noise",
+    "price": 3999,
+    "mrp": 6999,
+    "inStock": true,
+    "tags": ["amoled", "calling", "fitness", "budget"],
+    "description": "1.85\" AMOLED, Bluetooth calling, 100+ sports modes, 7-day battery."
+  },
+  {
+    "id": "P009",
+    "name": "Samsung Galaxy Watch 7 (40mm)",
+    "category": "smartwatch",
+    "brand": "Samsung",
+    "price": 26999,
+    "mrp": 32999,
+    "inStock": true,
+    "tags": ["premium", "health", "samsung", "ecg"],
+    "description": "Health tracking with ECG & BP (Samsung phones), sapphire glass, Wear OS."
+  },
+  {
+    "id": "P010",
+    "name": "Anker 20W USB-C Fast Charger",
+    "category": "accessory",
+    "brand": "Anker",
+    "price": 999,
+    "mrp": 1499,
+    "inStock": true,
+    "tags": ["charger", "fast-charging", "iphone", "usb-c"],
+    "description": "20W PD fast charger, works with iPhone and Android, compact."
+  },
+  {
+    "id": "P011",
+    "name": "Spigen Rugged Armor Back Cover",
+    "category": "accessory",
+    "brand": "Spigen",
+    "price": 799,
+    "mrp": 1299,
+    "inStock": true,
+    "tags": ["case", "cover", "protection"],
+    "description": "Shock-absorbing TPU case. Available for iPhone 16, Galaxy A36, Redmi Note 14."
+  },
+  {
+    "id": "P012",
+    "name": "Mi 20000mAh Power Bank 3i",
+    "category": "accessory",
+    "brand": "Xiaomi",
+    "price": 1899,
+    "mrp": 2499,
+    "inStock": true,
+    "tags": ["power bank", "battery", "travel", "fast-charging"],
+    "description": "20000mAh, 18W fast charging, dual output, charges a phone 4–5 times."
+  }
+]

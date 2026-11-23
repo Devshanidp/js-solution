@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.chat-bg {
+  background-color: #efeae2;
+  background-image: radial-gradient(#d9d2c5 1px, transparent 1px);
+  background-size: 18px 18px;
+}
